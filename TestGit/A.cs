@@ -8,5 +8,9 @@ namespace TestGit
 {
 	internal class A
 	{
+		public void ThisIsSomethingElse()
+		{
+
+		}
 	}
 }
