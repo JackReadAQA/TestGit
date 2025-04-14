@@ -12,5 +12,10 @@ namespace TestGit
 		{
 
 		}
+
+		public void Feature1Method()
+		{
+			// Test test test test update variable
+		}
 	}
 }
